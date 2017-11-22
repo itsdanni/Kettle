@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+*.json.gzip
+*.log
+.DS_Store
+.project
+.vscode
+public/bundle.js
+secrets.js
