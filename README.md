@@ -10,6 +10,7 @@ npm or yarn
 Clone this repository:
 ```
 git clone https://github.com/mathildapurr/Kettle.git
+cd Kettle
 ```
 Install dependencies with yarn or npm:
 ```
