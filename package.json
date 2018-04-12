@@ -1,7 +1,7 @@
 {
-  "name": "Narrative",
+  "name": "Kettle",
   "version": "1.0.0",
-  "description": "",
+  "description": "A minimal boilerplate to get started with full stack js development",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
@@ -11,29 +11,20 @@
     "babel-preset-stage-2": "^6.24.1",
     "body-parser": "^1.18.2",
     "morgan": "^1.9.0",
-    "node-sass": "^4.5.3",
     "react-dom": "^15.6.1",
-    "sass-loader": "^6.0.6",
     "webpack": "^3.5.6"
   },
   "dependencies": {
     "axios": "^0.17.0",
-    "bootstrap": "^3.3.7",
     "express": "^4.16.2",
-    "mdbootstrap": "^4.4.3",
-    "moment": "^2.19.1",
     "prop-types": "^15.6.0",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "styled-components": "^2.2.3"
+    "react-dom": "^15.6.1"
   },
   "scripts": {
     "build": "webpack",
     "build-watch": "webpack -w",
     "start": "babel-node server",
     "clean": "rm -rf node_modules"
-  },
-  "author": {
-    "name": "Danni Liu"
   }
 }
